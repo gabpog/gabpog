@@ -1,16 +1,19 @@
-## Hi there 👋
+Bem vindo ao meu perfil <3
 
-<!--
-**gabpog/gabpog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Rosário
 
-Here are some ideas to get you started:
+°Estou estudando na alura(https://www.alura.com.br)
+°Estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo (não entre)
+bielcb.rosario@gmail.com
+
+pronome:ele/dele
+15 anos
+
+![](https://media1.tenor.com/m/-awe34nhY80AAAAd/ordem-paranormal-gal.gif)
+
+
+![](https://media1.tenor.com/m/KyS2V_M5PjQAAAAd/ordem-paranormal-cellbit.gif)
+
+![](https://media1.tenor.com/m/CYE_clxRT78AAAAd/o-segredo-na-floresta-osnf.gif)
